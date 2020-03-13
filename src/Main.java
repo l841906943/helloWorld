@@ -6,7 +6,7 @@ public class Main {
 
         for (int idx = 0; idx < args.length; idx++) {
             String arg = args[idx];
-
+            System.out.println("测试git");
         }
 
 
